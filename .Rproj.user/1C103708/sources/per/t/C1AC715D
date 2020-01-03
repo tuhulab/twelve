@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577968122012.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C1AC715D",
+    "lastKnownWriteTime" : 4049919363798543922,
+    "last_content_update" : 1577968122012,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "06126252785446edb460e8fa3d52ed77",
+        "name" : "gset",
+        "title" : "gset"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
